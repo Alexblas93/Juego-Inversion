@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "name": "Alex",
+      "investments": [
+        { "symbol": "XAIX.DE", "type": "stock", "quantity": 0.06124, "buy_price_eur": 163.28, "currency": "EUR" },
+        { "symbol": "META", "type": "stock", "quantity": 0.01756, "buy_price_usd": 656.00, "currency": "USD" },
+        { "symbol": "NVDA", "type": "stock", "quantity": 0.06298, "buy_price_usd": 182.89, "currency": "USD" },
+        { "symbol": "ETH-EUR", "type": "crypto", "quantity": 0.00673, "buy_price_eur": 2972.00, "currency": "EUR" }
+      ]
+    },
+    {
+      "name": "Jose",
+      "investments": [
+        { "symbol": "ZYME", "type": "stock", "quantity": 0.8522, "buy_price_usd": 18.95, "currency": "USD" },
+        { "symbol": "HSDT", "type": "stock", "quantity": 1.7784, "buy_price_usd": 5.82, "currency": "USD" },
+        { "symbol": "NVDA", "type": "stock", "quantity": 0.0854, "buy_price_usd": 202.63, "currency": "USD" },
+        { "symbol": "ETH-EUR", "type": "crypto", "quantity": 0.003051, "buy_price_eur": 3280.96, "currency": "EUR" }
+      ]
+    },
+    {
+      "name": "Iñigo",
+      "investments": [
+        { "symbol": "ATYR", "type": "stock", "quantity": 19.2749, "buy_price_usd": 0.84, "currency": "USD" },
+        { "symbol": "NTLA", "type": "stock", "quantity": 1.0, "buy_price_usd": 12.24, "currency": "USD" },
+        { "symbol": "NTLA", "type": "stock", "quantity": 1.5192, "buy_price_usd": 9.11, "currency": "USD" },
+        { "symbol": "CYBN", "type": "stock", "quantity": 2.5210, "buy_price_usd": 5.95, "currency": "USD" }
+      ]
+    },
+    {
+      "name": "Iñaki (Enano)",
+      "investments": [
+        { "symbol": "SLNO", "type": "stock", "quantity": 0.2310, "buy_price_usd": 43.28, "currency": "USD" },
+        { "symbol": "ATYR", "type": "stock", "quantity": 12.3580, "buy_price_usd": 0.81, "currency": "USD" },
+        { "symbol": "MRNA", "type": "stock", "quantity": 0.3964, "buy_price_usd": 25.23, "currency": "USD" },
+        { "symbol": "GLOB", "type": "stock", "quantity": 0.1648, "buy_price_usd": 60.69, "currency": "USD" },
+        { "symbol": "DAVA", "type": "stock", "quantity": 1.1123, "buy_price_usd": 8.99, "currency": "USD" },
+        { "symbol": "TTD", "type": "stock", "quantity": 0.1509, "buy_price_usd": 49.17, "currency": "USD" }
+      ]
+    },
+    {
+      "name": "Damian",
+      "investments": [
+        { "symbol": "ETH-USD", "type": "crypto", "quantity": 0.0053, "buy_price_usd": 3510.30, "currency": "USD" },
+        { "symbol": "VKTX", "type": "stock", "quantity": 0.4786, "buy_price_usd": 36.19, "currency": "USD" },
+        { "symbol": "AMD", "type": "stock", "quantity": 0.0864, "buy_price_usd": 230.93, "currency": "USD" }
+      ]
+    },
+    {
+      "name": "Jorge",
+      "investments": [
+        { "symbol": "TERN", "type": "stock", "quantity": 0.2872, "buy_price_usd": 17.41, "currency": "USD" },
+        { "symbol": "AVGO", "type": "stock", "quantity": 0.0110, "buy_price_usd": 351.15, "currency": "USD" },
+        { "symbol": "TMUS", "type": "stock", "quantity": 0.0309, "buy_price_usd": 205.61, "currency": "USD" },
+        { "symbol": "META", "type": "stock", "quantity": 0.0140, "buy_price_usd": 631.91, "currency": "USD" },
+        { "symbol": "FTAI", "type": "stock", "quantity": 0.0237, "buy_price_usd": 162.14, "currency": "USD" },
+        { "symbol": "HCKT", "type": "stock", "quantity": 0.2054, "buy_price_usd": 18.74, "currency": "USD" },
+        { "symbol": "DJDA.BE", "type": "stock", "quantity": 0.0262, "buy_price_eur": 152.50, "currency": "EUR" },
+        { "symbol": "MSFT", "type": "stock", "quantity": 0.0251, "buy_price_usd": 507.72, "currency": "USD" }
+      ]
+    }
+  ]
+}
