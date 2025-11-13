@@ -28,7 +28,7 @@
       ]
     },
     {
-      "name": "Iñaki (Enano)",
+      "name": "Iñaki",
       "investments": [
         { "symbol": "SLNO", "type": "stock", "quantity": 0.2310, "buy_price_usd": 43.28, "currency": "USD" },
         { "symbol": "ATYR", "type": "stock", "quantity": 12.3580, "buy_price_usd": 0.81, "currency": "USD" },
@@ -60,4 +60,5 @@
       ]
     }
   ]
+
 }
